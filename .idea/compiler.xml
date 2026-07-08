@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JUnitDemo" />
         <module name="MockitoDemo" />
+        <module name="MockitoDemo (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
