@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="KubernetesApiPersistence">{}</component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Java_FSE/TDD_using_javen/Junit_Basic_Testing/pom.xml" />
         <option value="$PROJECT_DIR$/Java_FSE/TDD_using_javen/Junit_Advanced_Testing/JUnitDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Java_FSE/TDD_using_javen/Mockito_Demo/MockitoDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Java_FSE/TDD_using_javen/MockitoDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Java_FSE/TDD_using_javen/Mockito_Demo/pom.xml" />
       </list>
     </option>
   </component>
