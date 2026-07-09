@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JUnitDemo" />
-        <module name="MockitoDemo" />
+        <module name="SLF4JDemo" />
         <module name="MockitoDemo (1)" />
+        <module name="MockitoDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="JUnitDemo (1)" target="17" />
+      <module name="MockitoDemo (2)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
